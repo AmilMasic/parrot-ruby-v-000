@@ -6,4 +6,3 @@ def parrot()
 end
 
 parrot
-parrot()
